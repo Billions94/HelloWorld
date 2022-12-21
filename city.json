@@ -1,0 +1,29 @@
+[
+  {
+    "name":"John",
+    "city":"Berlin",
+    "cars":[
+      "Audi",
+      "BMW"
+    ],
+    "job":"Teacher"
+  },
+  {
+    "name":"Mark",
+    "city":"Oslo",
+    "cars":[
+      "VW",
+      "Toyota"
+    ],
+    "job":"Doctor"
+  },
+  {
+    "name":"Fanni",
+    "city":"Amsterdam",
+    "cars":[
+      "Porsche",
+      "G Wagon"
+    ],
+    "job":"Fashion Artist"
+  }
+]
